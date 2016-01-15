@@ -12,7 +12,7 @@
 " outline info for Objective-C
 " Version: 0.1.0
 
-function! unite#sources#outline#objc#outline_info()
+function! unite#sources#outline#defaults#objc#outline_info()
   return s:outline_info
 endfunction
 
